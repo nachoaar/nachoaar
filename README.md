@@ -1,5 +1,5 @@
 ## Hola 👋, soy Ignacio Fuentes
-<h4>Un entusiasta desarrollador front-end 👨‍🎨 de Argentina para el 🌎.</h4>
+<h4>Un entusiasta desarrollador full stack 👨‍🎨 de Argentina para el 🌎.</h4>
 Mi objetivo es plasmar ideas en código y crear proyectos únicos. Disfruto el trabajo en equipo y la lluvia de conocimientos entre mis compañeros. Con alto nivel de compromiso en todo momento.
 
 ## 💻 Tecnologías y herramientas:
