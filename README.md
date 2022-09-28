@@ -9,5 +9,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nachoaar&show_icons=true&locale=en" alt="nachoaar" /></p>
 
 ## 📬 Cómo contactarme:
-- Email: mailto:infuentes96@gmail.com
+- Email: infuentes96@gmail.com
 - Linkedin: https://www.linkedin.com/in/ignacionfuentes/
