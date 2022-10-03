@@ -1,15 +1,10 @@
-<h1 align="center"> Hola 🌎, soy Ignacio Nicolás Fuentes </h1>
-<h3 align="center">Full Stack Developer</h3>
+¡Hola comunidad! soy Ignacio Nicolás Fuentes de La Rioja, Argentina. Desarrollador Front-end.
 
-- 💬 **Mi objetivo es plasmar ideas en código y crear proyectos únicos. Disfruto el trabajo en equipo y la lluvia de conocimientos entre mis compañeros. Con alto nivel de compromiso en todo momento.**
+Desarrollador entusiasta, curioso y con ganas de crecer en el mundo IT. Flexible, competente y con actitud positiva en el trabajo colaborativo y grupal. Centrado en el diseño y la funcionalidad.
 
-- 🌱 **Actualmente estoy estudiando TypeScript y Next.js para seguir expandiendo mis conocimientos y ser un mejor profesional.**
+Actualmente me encuentro en aprendizajes nuevos como Typescript y Next.js para mejorar y seguir creciendo en el ámbito Front-end de la programación y ampliar mi abanico de tecnologías para desarrollo.
 
-## 💻 Tecnologías y herramientas:
-<p align="center" gap=10> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nachoaar&show_icons=true&locale=en" alt="nachoaar" /></p>
-
-## 📬 Cómo contactarme:
+<hr>
+Cómo contactarme:
 - Email: infuentes96@gmail.com
 - Linkedin: https://www.linkedin.com/in/ignacionfuentes/
