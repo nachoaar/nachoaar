@@ -5,6 +5,4 @@ Desarrollador entusiasta, curioso y con ganas de crecer en el mundo IT. Flexible
 Actualmente me encuentro en aprendizajes nuevos como Typescript y Next.js para mejorar y seguir creciendo en el ámbito Front-end de la programación y ampliar mi abanico de tecnologías para desarrollo.
 
 <hr>
-Cómo contactarme:
-- Email: infuentes96@gmail.com
-- Linkedin: https://www.linkedin.com/in/ignacionfuentes/
+Cómo contactarme: infuentes96@gmail.com | https://www.linkedin.com/in/ignacionfuentes/
