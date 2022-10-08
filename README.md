@@ -1,6 +1,6 @@
-¡Hola comunidad! soy Ignacio Nicolás Fuentes de La Rioja, Argentina. Desarrollador Front-end.
+¡Hola comunidad! soy Ignacio Nicolás Fuentes de La Rioja, Argentina. Desarrollador Full Stack.
 
-Desarrollador entusiasta, curioso y con ganas de crecer en el mundo IT. Flexible, competente y con actitud positiva en el trabajo colaborativo y grupal. Centrado en el diseño, buenas prácticas y funcionalidad.
+Desarrollador entusiasta y curioso por la tecnología. Flexible, competente y con actitud positiva en el trabajo colaborativo y grupal. Centrado en las Buenas prácticas y funcionalidad. Apasionado por crear soluciones que atiendan a las necesidades de los usuarios.
 
 <hr>
 ¡Estamos en contacto!
