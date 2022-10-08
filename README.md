@@ -4,4 +4,5 @@ Desarrollador entusiasta y curioso por la tecnología. Flexible, competente y co
 
 <hr>
 ¡Estamos en contacto!
+
 infuentes96@gmail.com | https://www.linkedin.com/in/ignacionfuentes/
